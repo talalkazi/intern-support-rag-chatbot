@@ -1,0 +1,19 @@
+Working Hours & Daily Expectations:
+Interns are expected to complete 15-20 hours per week asynchronously. While there are no fixed daily shift hours, interns typically allocate 3 to 4 hours per working day.
+
+Task Submissions & Formats:
+To submit your completed task assignment, log into the Intern Portal, navigate to the Dashboard, select 'Task Submission', upload your GitHub project link or code repository, and click 'Submit Assignment'.
+Supported submission formats include GitHub repository URLs, PDF documentation, ZIP files for code archives, and Jupyter Notebook (.ipynb) files.
+
+Task Deadlines, Extensions & Late Submissions:
+If you miss a task deadline, submit a request via the portal ticket system for an extension within 24 hours of the missed deadline.
+Assignments can be submitted after the official deadline has passed only if an extension request has been approved through the portal ticket system.
+
+Technical Support & Contact:
+If you experience technical issues with your assigned work, portal access, or development tools, reach out to the technical support team by opening a ticket under the 'Technical Helpdesk' section on the portal or message your assigned mentor on the official Slack/Discord workspace.
+
+Portal Access & Credentials Reset:
+If you get locked out of your account or forget your credentials, click on the 'Forgot Password' link on the portal login page or submit a credential recovery request under 'Portal Access' to reset your password.
+
+Intern ID & Profile Information:
+You can locate your Intern ID, active project status, and personal details by clicking on your avatar/name in the top-right corner of the Intern Portal and selecting 'Profile Settings'.
